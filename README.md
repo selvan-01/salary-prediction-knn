@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="thumbnail26.png" width="800">
+</p>
+
 # 💼 AI Salary Prediction Web Application
 
 An end-to-end Machine Learning web application that predicts whether an employee earns more than **50K** annually using the **K-Nearest Neighbors (KNN)** algorithm.
@@ -135,6 +139,11 @@ Salary > 50K 💰
 Contributions are welcome. Feel free to fork the repository and submit pull requests to enhance the project.
 
 ---
+## 🔗 Links
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/senthamil45)
+- 🌍 [Portfolio](https://senthamill.vercel.app/)
+- 💻 [GitHub](https://github.com/selvan-01/salary-prediction-knn.git)
 
 ## 📬 Contact
 
